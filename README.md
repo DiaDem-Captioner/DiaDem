@@ -13,7 +13,7 @@ Accurate dialogue description is a critical yet underexplored aspect of audiovis
 To enable systematic evaluation of dialogue description capabilities, we further introduce **DiaDemBench**, a comprehensive benchmark designed to evaluate models across diverse dialogue scenarios, emphasizing both speaker attribution accuracy and utterance transcription fidelity in audiovisual captions. Extensive experiments on DiaDemBench reveal that even commercial models still exhibit substantial room for improvement in dialogue-aware captioning. Notably, DiaDem not only outperforms the Gemini series in dialogue description accuracy but also achieves competitive performance on general audiovisual captioning benchmarks, demonstrating its overall effectiveness.
 
 ## 🔍 Captioning Case of DiaDem
-<div style="text-align: center; width: 100%;">
+<div align="center">
 <img src="assets/case_1.jpg" alt="DiaDem caption" style="width:100%; display: block; margin: 0 auto;">
 </div>
 
@@ -26,14 +26,14 @@ We present an illustration of an audiovisual video caption with accurate dialogu
 - 🌈 **Comprehensive and Diverse Scenarios:** A collection of 1,039 videos covering a wide spectrum of dialogue-centric scenarios, with broad category coverage and balanced distributions, enabling robust and generalizable evaluation.
 
 ## 📊 Data Statistics of DiaDemBench
-<div style="text-align: center; width: 100%;">
+<div align="center">
 <img src="assets/statistics.jpg" alt="DiaDemBench statistics" style="width:80%; display: block; margin: 0 auto;">
 </div>
 
 DiaDemBench features relatively balanced distribution of speaker count, on-screen people count, video duration, and language diversity, while carefully modulating the difficulty of speaker attribution and utterance transcription.
 
 ## 🧩 Categories Remaining Challenging for SOTA Audiovisual Captioning Models
-<div style="text-align: center; width: 100%;">
+<div align="center">
 <img src="assets/challenging_cases.jpg" alt="Challenging cases" style="width:80%; display: block; margin: 0 auto;">
 </div>
 
