@@ -3,8 +3,8 @@
 <p align="left">
   <a href="https://diadem-captioner.github.io/"><img src="https://img.shields.io/badge/Project%20webpage-558b2f?style=for-the-badge"></a>&nbsp;
   <a href="https://huggingface.co/DiaDem-Captioner/DiaDem"><img src="https://img.shields.io/badge/Model-db8905?style=for-the-badge"></a>&nbsp;
-  <a href="https://huggingface.co/DiaDem-Captioner/DiaDemBench"><img src="https://img.shields.io/badge/Benchmark-db8905?style=for-the-badge"></a>&nbsp;
-  <a href="https://arxiv.org/TODO"><img src="https://img.shields.io/badge/arXiv-red?style=for-the-badge"></a>
+  <a href="https://huggingface.co/datasets/DiaDem-Captioner/DiaDemBench"><img src="https://img.shields.io/badge/Benchmark-db8905?style=for-the-badge"></a>&nbsp;
+  <a href="https://arxiv.org/abs/2601.19267"><img src="https://img.shields.io/badge/arXiv-red?style=for-the-badge"></a>
 </p>
 
 ## 📖 Overview
@@ -122,5 +122,13 @@ Once you have agreed to the license terms, follow the steps below to evaluate th
 If you find DiaDem or DiaDemBench helpful for your research, please consider giving this repo a star ⭐ and citing our paper. We appreciate your support!
 
 ```bibtex
-TODO
+@misc{chen2026diademadvancingdialoguedescriptions,
+      title={DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models}, 
+      author={Xinlong Chen and Weihong Lin and Jingyun Hua and Linli Yao and Yue Ding and Bozhou Li and Bohan Zeng and Yang Shi and Qiang Liu and Yuanxing Zhang and Pengfei Wan and Liang Wang and Tieniu Tan},
+      year={2026},
+      eprint={2601.19267},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.19267}, 
+}
 ```
