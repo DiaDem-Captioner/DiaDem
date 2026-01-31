@@ -122,13 +122,10 @@ Once you have agreed to the license terms, follow the steps below to evaluate th
 If you find DiaDem or DiaDemBench helpful for your research, please consider giving this repo a star ⭐ and citing our paper. We appreciate your support!
 
 ```bibtex
-@misc{chen2026diademadvancingdialoguedescriptions,
-      title={DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models}, 
-      author={Xinlong Chen and Weihong Lin and Jingyun Hua and Linli Yao and Yue Ding and Bozhou Li and Bohan Zeng and Yang Shi and Qiang Liu and Yuanxing Zhang and Pengfei Wan and Liang Wang and Tieniu Tan},
-      year={2026},
-      eprint={2601.19267},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2601.19267}, 
-}
+@article{chen2026diadem,
+        title={DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models},
+        author={Chen, Xinlong and Lin, Weihong and Hua, Jingyun and Yao, Linli and Ding, Yue and Li, Bozhou and Zeng, Bohan and Shi, Yang and Liu, Qiang and Zhang, Yuanxing and others},
+        journal={arXiv preprint arXiv:2601.19267},
+        year={2026}
+      }
 ```
